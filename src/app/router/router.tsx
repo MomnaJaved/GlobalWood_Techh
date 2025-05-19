@@ -20,18 +20,4 @@ const router = createBrowserRouter([
   },
 ]);
 
-// const router = createBrowserRouter([
-//   {
-//     path: "/",
-//     element: <Layout />,
-//     children: [
-//       { path: "/", element: <Home /> },
-//       { path: "/categories", element: <Categories /> },
-//       { path: "/about", element: <About /> },
-//       { path: "/contact", element: <Contact /> },
-//       { path: "/cart", element: <Cart /> },
-//     ],
-//   },
-// ]);
-
 export default router;

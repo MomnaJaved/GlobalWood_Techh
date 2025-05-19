@@ -6,7 +6,6 @@ import product2 from "../assets/productCategory/product-2.jpg";
 import product3 from "../assets/productCategory/product-3.jpg";
 import chairIcon from "../assets/productCategory/chairIcon.png";
 import { PrevArrow, NextArrow } from "./CustomArrows";
-// Import slick-carousel css styles
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
